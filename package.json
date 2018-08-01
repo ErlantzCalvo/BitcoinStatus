@@ -1,0 +1,30 @@
+{
+  "name": "BitcoinStatus",
+  "productName": "BitcoinStatus",
+  "version": "1.0.0",
+  "description": "Bitcoin price checker",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Erlantz Calvo",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.5",
+    "electron-rebuild": "^1.8.2",
+    "i18next": "^11.5.0"
+  },
+  "files": [
+    "*.js",
+    "build",
+    "node_modules"
+  ],
+  "dependencies": {
+    "asar": "^0.14.3",
+    "auto-launch": "^5.0.5",
+    "electron-store": "^2.0.0",
+    "i18next-node-fs-backend": "^1.2.1",
+    "node-gyp": "^3.7.0",
+    "yarn": "^1.9.2"
+  }
+}
