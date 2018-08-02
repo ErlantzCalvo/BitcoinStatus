@@ -23,11 +23,13 @@ As well as the application has been made to check the bitcoin status off and on,
 
 You can also set the application to run at PC's boot (It is set by default).
 <p align="center">
-<b>Run at the startup</b><br/>
+<b>Run at the startup</b><br>
 <img src="https://i.imgur.com/tNGxt3E.jpg" alt="BitcoinStatus run at startup">
 </p>
 
 # Install
+
+Download this Repo.<br>
 
 Go to the app directory and run the next command:
 ```
