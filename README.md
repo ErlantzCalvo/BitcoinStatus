@@ -1,5 +1,6 @@
 # BitcoinStatus
 BitcoinStatus is a tray application made with electron that shows you the current price of the bitcoin and the price of the bitcoin in the last 30 days.
+###### Tested on Windows 10 Pro 
 
 <p align="center">
 <img src="https://i.imgur.com/M25Z1Li.jpg" alt="BitcoinStatus main screen" width="500px" >
