@@ -15,7 +15,8 @@ This application is translated into Spanish and English.
 </p>
 
 # Comfort
-As well as the application has been made to check the bitcoin status off and on, the application stays open in the OS tray system until the user closes it.
+As well as the application has been made to check the bitcoin status off and on, the application stays open in the OS tray system until the user closes it. 
+For a more comfortable use, the application can be shown and hidden pressing ```Ctrl+B```
 
 
 <p align="center">
